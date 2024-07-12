@@ -2,7 +2,7 @@
 www.dio.me
 
 #### Griador
-- [LuizFelipe]
+- [LuizFelipe][https://github.com/ssluiz]
 
 
 ## POO - Desafio
